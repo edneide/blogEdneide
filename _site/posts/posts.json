@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Bem-vindos ao Blog da Stat-Tech",
-    "description": "Bem vindos e bem-vindas ao nosso blog. Espero que vocês aproveitem a leitura.",
-    "author": [
-      {
-        "name": "Edneide Ramalho",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2021-09-21",
-    "categories": [],
-    "contents": "\nAqui, vamos falar de estatística e programação em R.\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-09-21T19:55:59-03:00",
-    "input_file": "welcome.knit.md"
-  },
-  {
     "path": "posts/2021-09-21-primeiro-post/",
     "title": "Primeiro Post",
     "description": "A short description of the post.",
@@ -31,6 +14,23 @@
     "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
     "preview": {},
     "last_modified": "2021-09-21T19:59:19-03:00",
-    "input_file": "primeiro-post.knit.md"
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Bem-vindos ao Blog da Stat-Tech",
+    "description": "Bem vindos e bem-vindas ao nosso blog. Espero que vocês aproveitem a leitura.",
+    "author": [
+      {
+        "name": "Edneide Ramalho",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-09-21",
+    "categories": [],
+    "contents": "\nAqui, vamos falar de estatística e programação em R.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-21T19:55:59-03:00",
+    "input_file": {}
   }
 ]
