@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Blog da Stat-Tech",
+    "title": "Bem-vindos ao Blog da Stat-Tech",
     "description": "Bem vindos e bem-vindas ao nosso blog. Espero que vocês aproveitem a leitura.",
     "author": [
       {
@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\nAqui, vamos falar de estatística e programação em R.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-09-21T19:49:35-03:00",
-    "input_file": {}
+    "last_modified": "2021-09-21T19:55:59-03:00",
+    "input_file": "welcome.knit.md"
   }
 ]

@@ -1,5 +1,5 @@
 ---
-title: "Blog da Stat-Tech"
+title: "Bem-vindos ao Blog da Stat-Tech"
 description: |
   Bem vindos e bem-vindas ao nosso blog. Espero que vocês aproveitem a leitura.
 author:
