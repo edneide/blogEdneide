@@ -1,7 +1,7 @@
 name: "."
-title: "Blog da Edneide"
+title: "Blog da Stat-Tech"
 description: |
-  Blog da Edneide
+  Blog da Stat-Tech
 output_dir: "_site"
 navbar:
   right:
