@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-04-08-ttulo-do-meu-primeiro-post/",
+    "title": "Título do Meu Primeiro Post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-04-08",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-21T18:50:51-03:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Blog da Edneide",
     "description": "Welcome to our new blog, Blog da Edneide. We hope you enjoy \nreading what we have to say!",
@@ -14,23 +31,6 @@
     "contents": "\nTesteeeeee\n\n\n\n",
     "preview": {},
     "last_modified": "2021-09-21T18:51:36-03:00",
-    "input_file": "welcome.knit.md"
-  },
-  {
-    "path": "posts/2021-04-08-ttulo-do-meu-primeiro-post/",
-    "title": "Título do Meu Primeiro Post",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2021-04-08",
-    "categories": [],
-    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-04-08T11:27:03-03:00",
-    "input_file": "ttulo-do-meu-primeiro-post.utf8.md"
+    "input_file": {}
   }
 ]
