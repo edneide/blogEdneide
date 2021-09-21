@@ -1,5 +1,0 @@
----
-title: "Blog da Stat-Tech"
-site: distill::distill_website
-listing: posts
----
