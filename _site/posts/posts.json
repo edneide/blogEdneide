@@ -1,5 +1,39 @@
 [
   {
+    "path": "posts/2021-09-21-ttulo-do-meu-primeiro-post/",
+    "title": "Título do Meu Primeiro Post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-09-21",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-21T18:55:25-03:00",
+    "input_file": "ttulo-do-meu-primeiro-post.knit.md"
+  },
+  {
+    "path": "posts/2021-09-21-testenovo/",
+    "title": "testenovo",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-09-21",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\nHelloooooooooo\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-21T19:24:23-03:00",
+    "input_file": "testenovo.knit.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Blog da Edneide",
     "description": "Welcome to our new blog, Blog da Edneide. We hope you enjoy \nreading what we have to say!",
@@ -11,9 +45,9 @@
     ],
     "date": "2021-04-08",
     "categories": [],
-    "contents": "\nTesteeeeee\num gráfico\n\n\n\n\n\n\n",
+    "contents": "\nTesteeeeee lalalal um gráfico\n\n\n\n\n\n\n",
     "preview": "posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2021-09-21T19:01:46-03:00",
-    "input_file": {}
+    "last_modified": "2021-09-21T19:24:45-03:00",
+    "input_file": "welcome.knit.md"
   }
 ]

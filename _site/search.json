@@ -6,15 +6,15 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-09-21T19:01:53-03:00"
+      "last_modified": "2021-09-21T19:22:54-03:00"
     },
     {
       "path": "index.html",
       "title": "Blog da Edneide",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-09-21T19:01:53-03:00"
+      "last_modified": "2021-09-21T19:22:54-03:00"
     }
   ],
-  "collections": ["posts/posts.json"]
+  "collections": ["posts/posts.json", "_posts/_posts.json"]
 }
