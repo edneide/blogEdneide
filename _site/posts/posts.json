@@ -13,8 +13,8 @@
     "categories": [],
     "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-09-21T19:59:19-03:00",
-    "input_file": {}
+    "last_modified": "2021-09-21T20:07:31-03:00",
+    "input_file": "primeiro-post.knit.md"
   },
   {
     "path": "posts/welcome/",
@@ -30,7 +30,7 @@
     "categories": [],
     "contents": "\nAqui, vamos falar de estatística e programação em R.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-09-21T19:55:59-03:00",
-    "input_file": {}
+    "last_modified": "2021-09-21T20:07:37-03:00",
+    "input_file": "welcome.knit.md"
   }
 ]
