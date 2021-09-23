@@ -2,7 +2,7 @@ name: "."
 title: "Stat-Tech"
 description: |
   Stat-Tech
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"

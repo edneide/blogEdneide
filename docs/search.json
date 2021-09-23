@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Stat-Tech",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-09-23T06:51:53-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
