@@ -1,13 +1,14 @@
 ---
-title: "Bem-vindos ao Blog da Stat-Tech"
+title: "Welcome to Stat-Tech"
 description: |
-  Bem vindos e bem-vindas ao nosso blog. Espero que vocês aproveitem a leitura.
+  Welcome to our new blog, Stat-Tech. We hope you enjoy 
+  reading what we have to say!
 author:
-  - name: Edneide Ramalho 
+  - name: Nora Jones 
     url: https://example.com/norajones
-    affiliation: Stat-Tech
+    affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
-date: 09-21-2021
+date: 09-23-2021
 output:
   distill::distill_article:
     self_contained: false
@@ -22,4 +23,4 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-Aqui, vamos falar de estatística e programação em R.
+

@@ -1,6 +1,5 @@
 ---
-title: "Blog da Stat-Tech Consulting"
+title: "Stat-Tech"
 site: distill::distill_website
 listing: posts
 ---
-
